@@ -1,5 +1,5 @@
 # Learn Python With Formula 1
-## Sean Massey sean@positivepython.co.uk
+***Sean Massey sean@positivepython.co.uk***
 
 ### Introduction
 
