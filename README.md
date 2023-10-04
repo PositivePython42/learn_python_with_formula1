@@ -1,1 +1,2 @@
-# learn_python_with_formula1
+#Learn Python With Formula 1
+###Sean Massey sean@positivepython.co.uk
