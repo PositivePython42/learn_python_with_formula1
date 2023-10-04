@@ -1,6 +1,8 @@
 # Learn Python With Formula 1 #
 ***Sean Massey : sean@positivepython.co.uk***
 
+![PythonF1Cover](https://github.com/PositivePython42/learn_python_with_formula1/assets/143272464/735ad5ea-4a46-4e52-8feb-51c10b136000)
+
 ### Introduction ###
 
 Welcome to "Learn Python With Formula 1 : Your Journey from Beginner to Advanced Coder!" If you're holding this book in your hands or reading it on your screen right now, you've taken the first step towards an exciting adventure in the world of coding with Python. Whether you're a complete novice or someone with a little programming experience, this book is your ticket to mastering Python and becoming a coding maestro!
