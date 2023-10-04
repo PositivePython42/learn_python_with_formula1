@@ -1,6 +1,8 @@
 # Learn Python With Formula 1
 ## Sean Massey sean@positivepython.co.uk
 
+### Introduction
+
 Welcome to "Learn Python With Formula 1 : Your Journey from Beginner to Advanced Coder!" If you're holding this book in your hands or reading it on your screen right now, you've taken the first step towards an exciting adventure in the world of coding with Python. Whether you're a complete novice or someone with a little programming experience, this book is your ticket to mastering Python and becoming a coding maestro!
 
 I'm thrilled to be your guide on this incredible journey. Based in the UK, I've had the privilege of teaching Python to aspiring coders just like you. My passion for Python, combined with a desire to help more people unlock the magic of programming, led to the creation of this book.
@@ -14,3 +16,6 @@ What sets this book apart is our approach. We believe in the power of practical 
 So, whether you're dreaming of building your own software, diving into data science, or just want to understand the language behind the tech world, you've made the right choice. By the time you finish this book, you'll not only be proficient in Python but also have the confidence to tackle complex coding tasks with ease.
 
 Get ready to rev your engines and accelerate your coding skills! The Python Racing adventure begins now. Lights out and away we code, learn, and have a power slide while doing it!
+
+### Driving Your Python F1 Car
+
