@@ -1,5 +1,5 @@
 # Learn Python With Formula 1 #
-***Sean Massey : sean@positivepython.co.uk***
+***Sean Massey : seany42@gmail.com***
 
 ![PythonF1Cover](https://github.com/PositivePython42/learn_python_with_formula1/assets/143272464/735ad5ea-4a46-4e52-8feb-51c10b136000)
 
@@ -20,4 +20,3 @@ So, whether you're dreaming of building your own software, diving into data scie
 Get ready to rev your engines and accelerate your coding skills! The Python Racing adventure begins now. Lights out and away we code, learn, and have a power slide while doing it!
 
 ### Driving Your Python F1 Car ###
-
